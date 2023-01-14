@@ -1,2 +1,1 @@
-# my-prep-curse-henry-2023
-Este es un repositorio de prueba del modulo 2 del Prep Course de Henry
+este proyecto es una prueba para crear un repositorio desde mi escritorio y clonarlo a mi repositorio local con github. 
